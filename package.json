@@ -5,8 +5,7 @@
   "description": "Deterministic, authority-free conformance evaluation for unsigned Base transactions against immutable anchors and declared policy.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section/services/ethereum-engineering-services-section/services/base-pre-sign-policy-service"
+    "url": "git+https://github.com/red-cup-engineering/base-pre-sign-policy-service.git"
   },
   "exports": {
     ".": "./src/policy-conformance.mjs",
